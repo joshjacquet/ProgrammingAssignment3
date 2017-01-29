@@ -1,7 +1,7 @@
 # Programming Assignment 3
 Programming assignment for course 3 of the JHU data science specialization.
 
-Assumes data is saved in directory "UCI HAR Dataset" - test and train data not uploaded to Github.
+*Assumes data is saved in directory "UCI HAR Dataset" - test and train data not uploaded to Github.*
 
 ###run_analysis.R does the following:
 1. Appends the test and the train data together into one dataset ("data_set").
